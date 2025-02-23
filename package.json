@@ -2,7 +2,7 @@
   "homepage": "https://rajatmaurya702.github.io/portfolio-site",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@tailwindcss/cli": "^4.0.8",
     "@testing-library/dom": "^10.4.0",
