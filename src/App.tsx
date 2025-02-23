@@ -3,8 +3,8 @@ import AppRoutes from "AppRoutes";
 import './index.css';
 
 const App = () => (
-  <Router basename="/portfolio-site">
-      <AppRoutes />
+  <Router>
+    <AppRoutes />
   </Router>
 );
 
